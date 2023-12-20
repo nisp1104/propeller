@@ -119,8 +119,6 @@ Install dependency libs on Centos7:
 
 ## Build LVM toolkit
 
-## NOTE: change -llibseagate_ilm to -lseagate_ilm
-
 Historically, the installation procedure below uses the LVM code located at
 https://github.com/Seagate/lvm2-idm to build the modified lvmlockd.  This was
 the Seagate development repo for LVM-specific changes related to the Propeller
